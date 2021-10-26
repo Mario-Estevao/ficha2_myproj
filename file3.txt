@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Bebidas
 
+=======
+comidas
+>>>>>>> NovaFeature
 
